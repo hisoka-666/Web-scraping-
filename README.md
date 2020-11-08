@@ -34,3 +34,6 @@ We can use the `decompose ()` method to exclude unwanted classes
 ### useful links
 [BeautifulSoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 [Requests documentation](https://requests.readthedocs.io/en/master/)
+
+### Contributing
+`Pull requests are always welcome 🐊`
