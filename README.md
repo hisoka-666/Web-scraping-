@@ -28,10 +28,8 @@ Filter2 = soup.find('')
 #loop
 for i in data:
     Soup.find('')
-#To delete superfluous data
-
 ```
-We can use the 'decompose' () method to exclude unwanted classes
+We can use the `decompose ()` method to exclude unwanted classes
 
 ### useful links
 [BeautifulSoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
