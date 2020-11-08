@@ -19,7 +19,7 @@ Data = requests.get(url)
 Soup = BeautifulSoup(data.text,"lxml")
 ```
 ### how to filter the data
->these data are still very confused you need to filter them
+These data are still very confused you need to filter them
 ```
 #To filter you can use
 #Inside ('') you can pass tags and classes
@@ -33,3 +33,4 @@ We can use the `decompose ()` method to exclude unwanted classes
 
 ### useful links
 [BeautifulSoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[Requests documentation](https://requests.readthedocs.io/en/master/)
